@@ -6,7 +6,7 @@ Desenvolvimento de um aplicativo em C para realizar apostas na Mega Sena, permit
 <br>
 O programa sorteará as apostas automaticamente e, ao final, realizará uma comparação para verificar se os números selecionados correspondem ao sorteio.
 <br><br>
-Técnologias utilizadas: C
+Técnologias utilizadas: <strong>C</strong>
 <br><br>
 
 <strong>EN</strong>
@@ -15,4 +15,4 @@ Development of a C application for placing bets on Mega Sena, allowing the user 
 <br>
 The program will automatically draw the bets and, in the end, compare them to the drawing to check for matches.
 <br><br>
-Technologies used: C 
+Technologies used: <strong>C</strong>
